@@ -20,7 +20,7 @@ export default function Footer() {
             </Link>
             <Link href="/terms" className="hover:underline">
               Terms of Service
-            </Link>
+            </Link> 
             <Link href="/privacy" className="hover:underline">
               Privacy Policy
             </Link>
